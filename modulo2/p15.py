@@ -1,0 +1,1 @@
+var = input("Mensagem do usuário")
